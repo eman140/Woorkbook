@@ -1,4 +1,4 @@
-Bootcamp Workbooks:
+
 Welcome to my Bootcamp Workbooks repository! This repository showcases all the work I completed throughout my data science and analytics bootcamp. During the bootcamp, I gained hands-on experience and developed key skills in various tools and technologies, including:
 
 Python
