@@ -63,7 +63,7 @@ This section provides a quick visual overview of some of the key visualizations 
 
 
 * **Week 3: SQL & Data Relationships**
-   * Example: visual representation some SQL queries:
+   * Example: visual representation of some SQL queries:
    
    ![image](https://github.com/user-attachments/assets/a84c61ef-5e6e-467e-a532-b958395822d0)
 
