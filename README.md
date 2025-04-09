@@ -42,7 +42,7 @@ During this intensive bootcamp, I developed proficiency in the following key are
 
 ## 🖼️ Weekly Visual Highlights
 
-This section provides a quick visual overview of some of the key visualizations and dashboards I created each week during the bootcamp. Click on the images to explore the corresponding weekly folder for more details and the underlying code/files.
+This section provides a quick visual overview of some of the key visualizations and dashboards I created each week during the bootcamp. Explore the corresponding weekly file for more details and the underlying code.
 
 *  Week 1: Excel 
   
@@ -56,21 +56,28 @@ This section provides a quick visual overview of some of the key visualizations 
 
     * Example: Using the EMSI_JobChange_UK dataset to create a Tableau dashboard
       ![image](https://github.com/user-attachments/assets/f6a32d40-caf9-481e-8bb6-0b57f9faf97d)
+      
+    * Example: createing a Power Bi dashboard for adventure works
+      
+     ![image](https://github.com/user-attachments/assets/bc1e6e2f-828d-4319-ac7d-9637169fdde1)
 
 
 * **Week 3: SQL & Data Relationships**
-    *(While SQL is primarily for data manipulation, you could include a diagram of your database schema or a visual representation of join operations*
-    **Database Schema:**
-    ![Database Schema Diagram](path/to/your/week3/database_schema.png)
+   * Example: visual representation some SQL queries:
+   
+   ![image](https://github.com/user-attachments/assets/a84c61ef-5e6e-467e-a532-b958395822d0)
+
+
 
 
 * **Week 5: ☁️ Cloud Platforms & Visualisation (Azure & Power BI)**
-    [![Azure Power BI Example](path/to/your/week5/azure_powerbi_thumbnail.png)](week5/)
-    *(Example: Cloud-connected Power BI dashboard or Azure Data Factory pipeline diagram)*
+
+   ![image](https://github.com/user-attachments/assets/b75d6173-0d00-4949-9784-f66b2b8b82ad)
+
 
 * **Week 6: Python for Data Analysis**
-    [![Python Visualization Example](path/to/your/week4/python_visualization_thumbnail.png)](week4/)
-    *(Example: Matplotlib/Seaborn plots showing trends or distributions)*
+    * Example: /PandasMatplotlib/Seaborn plots showing trends or distributions:
+   
 
 
 
