@@ -70,13 +70,13 @@ This section provides a quick visual overview of some of the key visualizations 
 
 
 
-* **Week 5: ☁️ Cloud Platforms & Visualisation (Azure & Power BI)**
+* **Week 5: ☁️ Cloud Platforms: Azure**
 
    ![image](https://github.com/user-attachments/assets/b75d6173-0d00-4949-9784-f66b2b8b82ad)
 
 
 * **Week 6: Python for Data Analysis**
-    * Example: /PandasMatplotlib/Seaborn plots showing trends or distributions:
+    * Example: Pandas/ Matplotlib/ Seaborn plots showing trends or distributions:
    
 
 
