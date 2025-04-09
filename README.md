@@ -83,6 +83,14 @@ This section provides a quick visual overview of some of the key visualizations 
 
   ![image](https://github.com/user-attachments/assets/911da2bf-90d0-420c-8eb7-05a256a4fa08)
 
+
+
+  Pandas:
+
+  
+  ![image](https://github.com/user-attachments/assets/75a75c79-8997-4da1-8c2a-fea0c744f426)
+
+
    
 
 
