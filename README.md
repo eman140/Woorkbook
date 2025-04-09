@@ -62,7 +62,7 @@ This section provides a quick visual overview of some of the key visualizations 
      ![image](https://github.com/user-attachments/assets/bc1e6e2f-828d-4319-ac7d-9637169fdde1)
 
 
-* **Week 3: SQL & Data Relationships**
+* **Week 3: SQL to store, update, remove, search, & retrieve information from the database.**
    * Example: visual representation of some SQL queries:
    
    ![image](https://github.com/user-attachments/assets/a84c61ef-5e6e-467e-a532-b958395822d0)
@@ -71,8 +71,8 @@ This section provides a quick visual overview of some of the key visualizations 
 
 
 * **Week 5: ☁️ Cloud Platforms: Azure**
+   ![image](https://github.com/user-attachments/assets/b12b7433-694d-4654-b0c8-e3ecceb430c8)
 
-   ![image](https://github.com/user-attachments/assets/b75d6173-0d00-4949-9784-f66b2b8b82ad)
 
 
 * **Week 6: Python for Data Analysis**
