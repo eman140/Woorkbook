@@ -27,6 +27,7 @@ The contents of this repository are meticulously organized into dedicated folder
 
 
 
+
 ## 🛠️ Skills & Technologies
 
 During this intensive bootcamp, I developed proficiency in the following key areas:
@@ -52,8 +53,10 @@ This section provides a quick visual overview of some of the key visualizations 
 
 
 * **Week 2: Power BI & Tableau Dashboards**
-    [![Power BI Dashboard Example](path/to/your/week2/powerbi_dashboard_thumbnail.png)](week2/)
-    *(Example: Interactive dashboard showcasing key metrics)*
+
+    * Example: Using the EMSI_JobChange_UK dataset to create a Tableau dashboard
+      ![image](https://github.com/user-attachments/assets/f6a32d40-caf9-481e-8bb6-0b57f9faf97d)
+
 
 * **Week 3: SQL & Data Relationships**
     *(While SQL is primarily for data manipulation, you could include a diagram of your database schema or a visual representation of join operations*
