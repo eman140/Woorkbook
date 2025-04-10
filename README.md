@@ -97,9 +97,6 @@ This section provides a quick visual overview of some of the key visualizations 
 
 
 
-## 📄 License
-
-This repository is open-source and licensed under the permissive **MIT License**. 
 
 
 
